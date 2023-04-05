@@ -1,0 +1,27 @@
+funtional jinistai holo component (react er j element gula valid javascript syntax or expression)
+
+function er kaj konkisu dite parbe abar kono kisu nite parbe
+
+function er modho je jinis ta tai return kore setai holo element
+
+function er modho je jinis ta print kora hoi se jinista holo component in react
+function component er somossa hoccy se nijer kono kisu change korte pare na re use korte pare
+
+kintu amra jani class k kora jaina
+
+reacdom function call buje class call buje na
+
+tahole class paite gele a ke inherite korte hobe
+
+react er porichotoh method hocce render()
+
+this-class, props->method, locale-> properties
+
+props kono vitor theke change kora jai na
+sobsomoy bahir theke korte hoi
+encapsulate mane or somosto kaj kormo or moddhe aese
+
+
+
+
+
